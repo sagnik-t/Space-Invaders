@@ -1,2 +1,2 @@
 # Space-Invaders
-Space invaders game built using pygame
+This is a basic space invaders game built using the pygame library.
